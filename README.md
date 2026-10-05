@@ -1,5 +1,3 @@
-# InternsElite-MajorProject-1
-
 # AI-Powered Interview Preparation Platform
 
 An AI-powered Interview Preparation Platform that generates role and company specific interview questions, evaluates candidate responses, analyzes facial expressions and body language, and provides detailed interview reports with performance tracking.
